@@ -67,7 +67,7 @@
 #background-img{
     width:99.9%;
     height:95vh;
-    background-image: url("/Images/Background.jpg");
+    background-image: url("https://github.com/Muhammad-Zain01/TravelAgencyWeb.github.io/blob/main/Images/Background.jpg?raw=true");
     background-size:cover;
     background-attachment: fixed;
     border:0.1px solid transparent;
@@ -79,7 +79,7 @@
     align-content: center;
     height: 30%;
     flex-direction: column;
-    margin-top:380px;
+    margin-top:420px;
     margin-left: 40px;
     margin-right: 200px;
 }
@@ -219,29 +219,29 @@ hr{
     grid-column-start:1;
     grid-column-end:3;
     width: 58vw;
-    background-image: url("/Images/New\ York.jpg");
+    background-image: url("https://github.com/Muhammad-Zain01/TravelAgencyWeb.github.io/blob/main/Images/New%20York.jpg?raw=true");
     
 }
 #grid-2{
-    background-image: url("/Images/paris.jpg");
+    background-image: url("https://github.com/Muhammad-Zain01/TravelAgencyWeb.github.io/blob/main/Images/paris.jpg?raw=true");
 }
 #grid-3{
-    background-image: url("/Images/Atlanti.jpg");
+    background-image: url("https://github.com/Muhammad-Zain01/TravelAgencyWeb.github.io/blob/main/Images/Atlanti.jpg?raw=true");
 }
 #grid-4{
-    background-image: url("/Images/Des.jpg");
+    background-image: url("https://github.com/Muhammad-Zain01/TravelAgencyWeb.github.io/blob/main/Images/Des.jpg?raw=true");
 }
 #grid-5{
-    background-image: url("/Images/Des2.jpg");
+    background-image: url("https://github.com/Muhammad-Zain01/TravelAgencyWeb.github.io/blob/main/Images/Des2.jpg?raw=true");
 }
 #grid-6{
-    background-image: url("/Images/Des3.jpg");
+    background-image: url("https://github.com/Muhammad-Zain01/TravelAgencyWeb.github.io/blob/main/Images/Des3.jpg?raw=true");
 }
 #grid-7{
     grid-column-start:2 ;
     grid-column-end: 4;
     width:58vw;
-    background-image: url("/Images/Des4.jpg");
+    background-image: url("https://github.com/Muhammad-Zain01/TravelAgencyWeb.github.io/blob/main/Images/Des4.jpg?raw=true");
 }
 /* font-family: 'Bungee Shade', cursive; */
 
@@ -265,7 +265,7 @@ hr{
     border: 1px solid black;
     width:460px;
     height: 500px;     
-    background-image: url("/Images/New\ York.jpg");
+    background-image: url("https://github.com/Muhammad-Zain01/TravelAgencyWeb.github.io/blob/main/Images/New%20York.jpg?raw=true");
     /* filter:blur(2px); */
     opacity: 0.7;
     /* filter:brightness(70%); */
