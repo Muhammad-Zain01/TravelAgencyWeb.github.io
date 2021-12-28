@@ -1,0 +1,222 @@
+@media only screen and (max-width:1135px){
+    #nav-items{
+        align-self:center;
+    }
+    #logo{
+        margin-left:20px;
+    }
+}
+@media only screen and (max-width:839px){
+    #text-intro{
+        margin-top:350px;
+    }
+    #logo{
+        margin-left:40px;
+    }
+    .nav-list{
+        width:75vw;
+    }
+    .icons-edit{
+        padding: 0.2vh 0.9vw;
+        font-size: 20px;
+    }
+}
+@media only screen and (max-width:770px){
+    
+
+    .nav-list{
+        display: none;
+        flex-direction: column;
+        margin-top:10px;
+    }
+    #nav-bar-items{
+        margin-top:6px;
+        font-size:20px;
+    }
+    #search-bar-div{
+        display: none;
+        margin:auto;
+        padding-right:40px;
+    }
+    #menu-burger{
+        display: block;
+    }
+    #nav-bar{
+        flex-direction: column;
+        /* height: 250px; */
+    }
+
+}
+
+@media only screen and (max-width:1039px){
+    #Parts{
+        flex-direction: column;
+        height: 620px;
+    }
+    .first{
+        margin:auto;
+        width: 50%;
+        padding-left: 60px;
+    }
+    .sub-heading1{
+        text-align: center;
+        width: 100%;
+        margin-left: 0px;
+    }
+    .sub-heading2{
+        text-align: center;
+        width: 100%;
+        margin-left: 0px;
+    }
+
+    .text-about{
+        width: 95vw;
+        padding-bottom: 20px;
+        margin-top:-50px;
+        padding-right:0px;
+    }
+    #Parts2{
+        flex-direction: column;
+        height: 620px;
+    }
+    #destination{
+        margin-top:520px;
+        height:249vh;
+    }
+    #grid-1{
+        grid-column-start: 1;
+        grid-column-end: 4;
+        width:90vw;
+    }
+    #grid-2{
+        grid-column-start: 1;
+        grid-column-end: 4;
+        width:90vw;
+    }
+    #grid-3{
+        grid-column-start: 1;
+        grid-column-end: 4;
+        width:90vw;
+    }
+    #grid-4{
+        grid-column-start: 1;
+        grid-column-end: 4;
+        width:90vw;
+    }
+    #grid-5{
+        grid-column-start: 1;
+        grid-column-end: 4;
+        width:90vw;
+    }
+    #grid-6{
+        grid-column-start: 1;
+        grid-column-end: 4;
+        width:90vw;
+    }
+    #grid-7{
+        grid-column-start: 1;
+        grid-column-end: 4;
+        width:90vw;
+    }
+    #main-contact-div{
+        margin-top:450px;
+    }
+}
+@media only screen and (max-width:910px){
+
+    #main-contact-div{
+        flex-direction:column;
+    }
+    #contact-information{
+        width: 90%;
+        margin-left:30px;
+    }
+    #contact-form{
+        margin:auto;
+        border-radius: 0px;
+        width: 100%;
+        border:none;
+    }
+    #Name{
+        width:75%;
+
+    }
+    #submit-btn{
+        margin-left: 45%;
+    }
+    .input-variable{
+        width:66%;
+    }
+    #text-msg{
+        width:70%;
+        margin-left:10px;
+        margin-top:25px;
+    }
+    .input-label{
+        margin-top: 20px;
+    }
+    #footer{
+        margin-top:450px;
+    }
+
+}
+@media only screen and (max-width:604px){
+    .input-variable{
+        width:60%;
+    }
+    #text-intro{
+        margin-top:320px;
+    }
+    #destination{
+        margin-top:600px;
+    }
+}
+@media only screen and (max-width:500px){
+    #destination{
+        margin-top:400px;
+    }
+    .sub-heading2{
+        margin-top:50px;
+    }
+    .input-variable{
+        width:52%;
+    }
+    #Name{
+        width:70%;
+    }
+}
+@media only screen and (max-width:450px){
+    #text-msg{
+        width:60%;
+    }
+    #destination{
+        margin-top:480px;
+    }
+    .sub-heading2{
+        margin-top:80px;
+    }
+    .travel-img{
+        width:70%;
+        margin-left:-1px;
+    }
+    .first{
+        width:80%;
+    }   
+    .sub-heading2{
+        margin-top:250px;
+    }
+    #destination{
+        margin-top:700px;
+    }
+}
+@media only screen and (max-width:380px){
+    #destination{
+        margin-top:750px;
+    }
+    #Name{
+        width:65%;
+    }
+    .input-variable{
+        width:45%;
+    }
+}
